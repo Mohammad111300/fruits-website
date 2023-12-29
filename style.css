@@ -455,3 +455,8 @@ section{
     text-align: center;
     padding: 20px;
 }
+@media (max-width:1080px){
+    header{
+        padding: 18px 60px;
+    }
+}
